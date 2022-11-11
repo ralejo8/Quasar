@@ -16,7 +16,12 @@ Posición de los satélites actualmente en servicio
 ● Skywalker: [100, -100]
 ● Sato: [500, 100]
 
-#Urls
+# Documentación
+
+En la siguiente url puede encontrar la documentacion de los servicios rest
+http://3.230.72.2:1426/Quasar/swagger-ui.html#/comunicacion-controlador
+
+# Urls
 servicio Post
 -http://3.230.72.2:1426/Quasar/topSecret
 
